@@ -28,7 +28,8 @@ BoM
 
 1. UVC lamp
 - Discard the pump assembly.
-- There are four interior metal screws holding the two halves of the plastic housing together.  To avoid damaging the expensive lamp bulbs, carefully saw through these screws with the Dremel, cutting along the seams running down the sides of the housing.  I first made a small cut lengthwise on the broad flat side of the housing, and backstopped the screws with a flathead screwdriver.
+- There are four interior metal screws holding the two halves of the plastic housing together.  To avoid damaging the expensive lamp bulbs, carefully saw through these screws with the Dremel, cutting along the seams running down the sides of the housing.  I first made a small cut lengthwise on the broad flat side of the housing, and backstopped the screws with a flathead screwdriver.  Be careful not to damage the lamps!
+![Locations of the four screws to cut](https://github.com/hromadka/germbox/blob/master/images/drill_here_for_lamp.jpg)
 - Once the four interior screws are cut, the plastic housing easily pops apart.
 2. Igloo Cooler
 - Line the cooler with the shiny reflective side of the aluminum foil.
