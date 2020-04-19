@@ -8,16 +8,16 @@ BoM
 
 | Part | Quantity | Source | 
 | ------------- | ------------- | ------------- |
-| Green Killing Machine 24W UVC Lamp | 1 or 2 | https://www.petco.com/shop/en/petcostore/product/fish/fish-tank-cleaning/sterilizers-uv-parts/green-killing-machine-internal-uv-sterilizer-with-power-head-24w |
+| Green Killing Machine 24W UVC Lamp | 1 (or 2, if you want to be aggressive) | https://www.petco.com/shop/en/petcostore/product/fish/fish-tank-cleaning/sterilizers-uv-parts/green-killing-machine-internal-uv-sterilizer-with-power-head-24w |
 | Igloo Marine 25QT Cooler  | 1 | https://www.walmart.com/ip/Igloo-Marine-25QT-Contour-49644-White-Cooler/55652058 |
 | Wilton 10x16" Baking Rack | 1 | https://www.walmart.com/ip/Wilton-Bake-It-Better-10-x-16-Cooling-Grid/44432740 |
 | BN Link Countdown Timer | 1 | https://smile.amazon.com/gp/product/B00MVDTEXS/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1 |
 
-Aluminum foil
-Duct tape
-Qty 4 assorted 2" screws
-Optional: outdoor-rated silicon caulk
-Replacement UVC lamps are significantly cheaper without the power supply and unnecessary water pump: https://www.petco.com/shop/en/petcostore/product/green-killing-machine-24w-replacement-uv-bulb
+- Aluminum foil
+- Duct tape
+- Qty 4 assorted 2" screws
+- Optional: outdoor-rated silicon caulk
+- Replacement UVC lamps are significantly cheaper without the power supply and unnecessary water pump: https://www.petco.com/shop/en/petcostore/product/green-killing-machine-24w-replacement-uv-bulb
 
 Dremel
 Cordless drill + 1.5" spade bit + drill bit sized for the assorted 2" screws
