@@ -1,6 +1,7 @@
 # germbox
 
-![Germbox interior](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184420.jpg)![Germbox exterior](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184409.jpg)
+![Germbox interior](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184417.jpg)
+![Germbox exterior](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184409.jpg)
 
 In addition to washing things with soap & water, applying peroxide vapor, and plain old sunlight, Germbox can help sterilize masks and other PPE using UVC light.  Please consult a professional, kids!
 
@@ -31,18 +32,21 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280232/
 1. UVC lamp
 - Discard the pump assembly.
 - There are four interior metal screws holding the two halves of the plastic housing together.  To avoid damaging the expensive lamp bulbs, carefully saw through these screws with the Dremel, cutting along the seams running down the sides of the housing.  I first made a small cut lengthwise on the broad flat side of the housing, and backstopped the screws with a flathead screwdriver.  Be careful not to damage the lamps!
-![Locations of the four screws to cut](https://github.com/hromadka/germbox/blob/master/images/bisect_these_4_bolts.jpg)
+- ![Locations of the four screws to cut](https://github.com/hromadka/germbox/blob/master/images/bisect_these_4_bolts.jpg)
 - Once the four interior screws are cut, the plastic housing easily pops apart.
 2. Igloo Cooler
 - Line the cooler with the shiny reflective side of the aluminum foil.
 - Using the spade bit, drill an opening for the UVC lamp about 2" above the bottom of the cooler (where the casing dimples in).  Expand this hole to size using the jab saw, if necessary.  Warning - the cooler shell and interior foam will scatter everywhere!
-![Drill here to make an opening for the lamps](https://github.com/hromadka/germbox/blob/master/images/drill_here_for_lamp.jpg)
+- ![Drill here to make an opening for the lamps](https://github.com/hromadka/germbox/blob/master/images/drill_here_for_lamp.jpg)
 3. Drill the 4 two-inch screws into the cooler's sides.  The optimal location is the smallest "dot" in the lowest interior corner of the housing (see diagram below).  These will hold up the wire rack inside the cooler.  The wire rack will hold the objects you want sterilized safely above the lamps.
-![Drill here to insert the rack mounts](https://github.com/hromadka/germbox/blob/master/images/drill_here_for_rack_mounts.jpg)
+- ![Drill here to insert the rack mounts](https://github.com/hromadka/germbox/blob/master/images/drill_here_for_rack_mounts.jpg)
 4. Cut the wire rack to size (16" is the correct length, but it is slight too wide for the cooler).
-![Rack cut to size](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184417.jpg)
+- ![Rack cut to size](https://github.com/hromadka/germbox/blob/master/images/IMG_20200418_184420.jpg)
 5. Hook up the countdown timer to your lamp's power supply.
 6. Close the cooler lid, plug it in, set the timer to 30 minutes (est.), and let it zap away.
+7. New!  Add a UVC sensor to measure exposure. 
+- https://hackaday.com/2020/03/27/measuring-uv-c-for-about-5/  
+8. Future work: add a cutoff switch to the lid so that the lamp turns off as soon as the lid is opened.
 
-
+# NOT FDA APPROVED, NO WARRANTY OF ANY KIND, USE AT YOUR OWN RISK
 
