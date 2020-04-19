@@ -19,10 +19,10 @@ BoM
 - Optional: outdoor-rated silicon caulk
 - Replacement UVC lamps are significantly cheaper without the power supply and unnecessary water pump: https://www.petco.com/shop/en/petcostore/product/green-killing-machine-24w-replacement-uv-bulb
 
-Dremel
-Cordless drill + 1.5" spade bit + drill bit sized for the assorted 2" screws
-Jab saw / keyhole saw / drywall saw
-Metal snips
+- Dremel kit
+- Cordless drill + 1.5" spade bit + drill bit sized for the assorted 2" screws
+- Jab saw / keyhole saw / drywall saw
+- Metal snips
 
 # Assembly Instructions
 
